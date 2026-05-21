@@ -223,6 +223,3 @@ using structured Electronic Health Record datasets.
 - The dataset is large and may not be fully hosted directly on GitHub.
 - If required, use the provided Google Drive link to access the complete dataset.
 - Ensure all CSV files are placed inside the `data/` directory before running the dashboard.
-- The dataset is large and may not be fully hosted directly on GitHub.
-- If required, use the provided Google Drive link to access the complete dataset.
-- Ensure all CSV files are placed inside the `data/` directory before running the dashboard.
